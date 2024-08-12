@@ -9,3 +9,5 @@ Needs lots of modules and software otherwise full pipleine won't work like mine,
 I am aware there are more efficent, better, and more secure ways of doing most things here... but this is a perosnal project for fun so I don't think it is that important.
 
 The four news presentors, and the political bais', are not meant to cause offense or be taken seriously, they are just 4 vairations I created to add some diversity and showcase the varied abilities of the program.
+
+You will also need to add your own 'attention footage' if you want to compose a video, this is the gameplay footage at the bottom of the examples. It can be anything you want.
