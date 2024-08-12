@@ -7,3 +7,5 @@ I have included some example videos to show capabilities of the private version 
 Needs lots of modules and software otherwise full pipleine won't work like mine, but this is intended as a source for more indivudal files, and less as a full project (although feel free to get it to work if you want).  A few files are missing as they are too big (such as some of the blender files).
 
 I am aware there are more efficent, better, and more secure ways of doing most things here... but this is a perosnal project for fun so I don't think it is that important.
+
+the four news presentors I have aren't meant to cause offense or be taken seriously, they are just 4 characters I imagined and created to create some diversity and showcase the varied abilities of the program.
