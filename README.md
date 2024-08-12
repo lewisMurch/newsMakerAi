@@ -1,3 +1,7 @@
-Public version of a private automatic news maker. 
-Please resuse anything you want, individual files should work well for your project with minimal tweaking. 
-Needs lots of modules and software otherwise full pipleine won't work. I have included some example videos to show capabilities. A few files are missing as they are too big (such as some of the blender files)
+Public version of my private automatic news maker
+
+Please resuse anything you want, individual files should work well for your project with minimal tweaking. Thought I would release as this is something I would have liked to have had 6 months ago when I started the project for help and ideas with certian things.
+
+I have included some example videos to show capabilities of the private version (very similar to this one, just with my own custom blender files and API keys basically) 
+
+Needs lots of modules and software otherwise full pipleine won't work like mine, but this is intended as a source for more indivudal files, and less as a full project (although feel free to get it to work if you want).  A few files are missing as they are too big (such as some of the blender files).
