@@ -8,4 +8,4 @@ Needs lots of modules and software otherwise full pipleine won't work like mine,
 
 I am aware there are more efficent, better, and more secure ways of doing most things here... but this is a perosnal project for fun so I don't think it is that important.
 
-the four news presentors I have aren't meant to cause offense or be taken seriously, they are just 4 characters I imagined and created to create some diversity and showcase the varied abilities of the program.
+The four news presentors I have aren't meant to cause offense or be taken seriously, they are just 4 characters I imagined and created to create some diversity and showcase the varied abilities of the program.
