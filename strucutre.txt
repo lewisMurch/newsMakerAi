@@ -1,0 +1,547 @@
+Folder PATH listing for my private production version
+main folder:.
+¦   article_scraper.py
+¦   blender_launcher_nvidia.py
+¦   commandLauncher.py
+¦   date_getter.py
+¦   footage_getter.py
+¦   hashtag_gen.py
+¦   image_finder.py
+¦   instagram_long_token_maker.py
+¦   instagram_uploader.py
+¦   Instance_manager.py
+¦   LLM_local_server.py
+¦   LLM_test_do_not_use.py
+¦   MascotNvidia.py
+¦   NewsInfo.txt
+¦   News_finder_and_saver.py
+¦   ngrok_server_start.py
+¦   render_script_nvidia.py
+¦   server.py
+¦   setup 2FA insta.txt
+¦   testupload.py
+¦   token.pickle
+¦   TTS.py
+¦   video_composer.py
+¦   video_splitter_GPU.py
+¦   video_uploader_manager.py
+¦   X_uploader.py
+¦   youtube_auth_flow_generator.py
+¦   youtube_uploader.py
+¦   
++---Assets
+¦       news.jpg
+¦       
++---Auth
+¦       asmr_token.json
+¦       asmr_upload.json
+¦       centre_token.json
+¦       centre_upload.json
+¦       left_token.json
+¦       left_upload.json
+¦       right_token.json
+¦       right_upload.json
+¦       upload_cred.json
+¦       
++---blend_assets
+¦       eye_c.jpg
+¦       eye_l.jpg
+¦       gb_A.jpg
+¦       gb_c.jpg
+¦       gb_l.jpg
+¦       gb_r.jpg
+¦       
++---final_videos
++---Fonts
+¦       Arial.ttf
+¦       Frutiger.ttf
+¦       
++---politics
+¦   +---ASMR
+¦   ¦   ¦   blurred_image.jpg
+¦   ¦   ¦   Main_ASMR.py
+¦   ¦   ¦   
+¦   ¦   +---attention_footage
+¦   ¦   ¦   +---footage_A
+¦   ¦   ¦   ¦       1mc_part_12.mp4
+¦   ¦   ¦   ¦       1mc_part_14.mp4
+¦   ¦   ¦   ¦       1mc_part_17.mp4
+¦   ¦   ¦   ¦       1mc_part_19.mp4
+¦   ¦   ¦   ¦       1mc_part_2.mp4
+¦   ¦   ¦   ¦       1mc_part_4.mp4
+¦   ¦   ¦   ¦       1mc_part_5.mp4
+¦   ¦   ¦   ¦       mc_part_1.mp4
+¦   ¦   ¦   ¦       mc_part_11.mp4
+¦   ¦   ¦   ¦       mc_part_13.mp4
+¦   ¦   ¦   ¦       mc_part_14.mp4
+¦   ¦   ¦   ¦       mc_part_15.mp4
+¦   ¦   ¦   ¦       mc_part_17.mp4
+¦   ¦   ¦   ¦       mc_part_18.mp4
+¦   ¦   ¦   ¦       mc_part_19.mp4
+¦   ¦   ¦   ¦       mc_part_2.mp4
+¦   ¦   ¦   ¦       mc_part_20.mp4
+¦   ¦   ¦   ¦       mc_part_21.mp4
+¦   ¦   ¦   ¦       mc_part_22.mp4
+¦   ¦   ¦   ¦       mc_part_23.mp4
+¦   ¦   ¦   ¦       mc_part_24.mp4
+¦   ¦   ¦   ¦       mc_part_25.mp4
+¦   ¦   ¦   ¦       mc_part_3.mp4
+¦   ¦   ¦   ¦       mc_part_4.mp4
+¦   ¦   ¦   ¦       mc_part_6.mp4
+¦   ¦   ¦   ¦       mc_part_7.mp4
+¦   ¦   ¦   ¦       mc_part_8.mp4
+¦   ¦   ¦   ¦       mc_part_9.mp4
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---footage_B
+¦   ¦   ¦           1mc_part_3.mp4
+¦   ¦   ¦           mc_part_10.mp4
+¦   ¦   ¦           mc_part_12.mp4
+¦   ¦   ¦           mc_part_16.mp4
+¦   ¦   ¦           mc_part_5.mp4
+¦   ¦   ¦           
+¦   ¦   +---blender
+¦   ¦   ¦   ¦   Mascot_staging.blend
+¦   ¦   ¦   ¦   Mascot_staging.blend1
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   +---materials
+¦   ¦   ¦   ¦   ¦   +---brown_hair_dd67fb4c-3645-44de-86c1-53b4f15b12ca
+¦   ¦   ¦   ¦   ¦   ¦       brown_hair_cd784ffd-f23a-4cf2-95eb-1ac24bb81d83.blend
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---cloth_fabric_8597efd3-a1f7-4268-bd41-90991e23f844
+¦   ¦   ¦   ¦   ¦   ¦       cloth_fabric_fcefefc1-a859-4f82-a8be-7351adbaadee.blend
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---cream_cloth_6dc0093c-f1ca-449c-a19c-dcc00b09b128
+¦   ¦   ¦   ¦   ¦   ¦       cream_cloth_2K_99b2902e-db89-4118-860b-c064ae817204.blend
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---fur_01_a4bcb169-ab1d-48dd-b979-1b40b20e7735
+¦   ¦   ¦   ¦   ¦   ¦       fur_01_2K_93327660-974c-4c3c-9124-b339245254b5.blend
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---velvet_be4db903-8a3f-4f0a-9989-3630494dc1e4
+¦   ¦   ¦   ¦   ¦   ¦       velvet_2K_a73de57c-a43e-47c0-865b-26fa2b58ec01.blend
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---velvet_whisper_4b2175dc-6c1f-40fc-b800-f70b1d16ae8e
+¦   ¦   ¦   ¦   ¦           velvet_whisper_c764557e-dbad-47e0-bf07-7448ca58ab5a.blend
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---models
+¦   ¦   ¦   ¦       +---box_404196c7-511b-4463-b1b0-2a225c39f55f
+¦   ¦   ¦   ¦               box_2K_859061ba-01a9-4f21-9da2-d91b7739f727.blend
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---cache
+¦   ¦   ¦       +---config
+¦   ¦   ¦       ¦       config_-0001.uni
+¦   ¦   ¦       ¦       ...
+¦   ¦   ¦       ¦       config_0500.uni
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---data
+¦   ¦   ¦       ¦       fluid_data_-0001.vdb
+¦   ¦   ¦       ¦       ...
+¦   ¦   ¦       ¦       fluid_data_0500.vdb
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---guiding
+¦   ¦   ¦       +---mesh
+¦   ¦   ¦       +---noise
+¦   ¦   ¦       ¦       fluid_noise_-0001.vdb
+¦   ¦   ¦       ¦       ...
+¦   ¦   ¦       ¦       fluid_noise_0500.vdb
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---particles
+¦   ¦   +---Fonts
+¦   ¦   ¦       Arial.ttf
+¦   ¦   ¦       Frutiger.ttf
+¦   ¦   ¦       
+¦   ¦   +---historic_stories
+¦   ¦   ¦       ASMR.json
+¦   ¦   ¦       ASMR_BBC.json
+¦   ¦   ¦       STIME.json
+¦   ¦   ¦       
+¦   ¦   +---MascotNvidia
+¦   ¦   ¦   ¦   cache_ASMR_cache.usd
+¦   ¦   ¦   ¦   left_mascot.usd
+¦   ¦   ¦   ¦   right_mascot.usd
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---.thumbs
+¦   ¦   ¦       +---256x256
+¦   ¦   ¦               left_mascot.usd.png
+¦   ¦   ¦               right_mascot.usd.png
+¦   ¦   ¦               test.usd.png
+¦   ¦   ¦               
+¦   ¦   +---mascot_video
+¦   ¦   ¦       final_mascot.webm
+¦   ¦   ¦       
+¦   ¦   +---news_info_to_render
+¦   ¦   ¦       ASMR.json
+¦   ¦   ¦       ASMR_custom.json
+¦   ¦   ¦       
+¦   ¦   +---politics
+¦   ¦   ¦   +---ASMR
+¦   ¦   ¦       +---news_info_to_render
+¦   ¦   ¦       ¦       ASMR_custom.json
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---TTS
+¦   ¦   ¦               TTS_output.mp3
+¦   ¦   ¦               TTS_output.wav
+¦   ¦   ¦               
+¦   ¦   +---related_images
+¦   ¦   ¦       1.jpg
+¦   ¦   ¦       
+¦   ¦   +---static_audio
+¦   ¦   ¦       news_sound.mp3
+¦   ¦   ¦       
+¦   ¦   +---TTS
+¦   ¦   ¦       TTS_output.mp3
+¦   ¦   ¦       TTS_output.wav
+¦   ¦   ¦       
+¦   ¦   +---__pycache__
+¦   ¦           Main_ASMR.cpython-311.pyc
+¦   ¦           
+¦   +---centre
+¦   ¦   ¦   blurred_image.jpg
+¦   ¦   ¦   Main_centre.py
+¦   ¦   ¦   
+¦   ¦   +---attention_footage
+¦   ¦   ¦   +---footage_A
+¦   ¦   ¦   ¦       mc_part_10.mp4
+¦   ¦   ¦   ¦       mc_part_11.mp4
+¦   ¦   ¦   ¦       mc_part_12.mp4
+¦   ¦   ¦   ¦       mc_part_14.mp4
+¦   ¦   ¦   ¦       mc_part_15.mp4
+¦   ¦   ¦   ¦       mc_part_16.mp4
+¦   ¦   ¦   ¦       mc_part_18.mp4
+¦   ¦   ¦   ¦       mc_part_2.mp4
+¦   ¦   ¦   ¦       mc_part_26.mp4
+¦   ¦   ¦   ¦       mc_part_27.mp4
+¦   ¦   ¦   ¦       mc_part_28.mp4
+¦   ¦   ¦   ¦       mc_part_30.mp4
+¦   ¦   ¦   ¦       mc_part_32.mp4
+¦   ¦   ¦   ¦       mc_part_33.mp4
+¦   ¦   ¦   ¦       mc_part_34.mp4
+¦   ¦   ¦   ¦       mc_part_37.mp4
+¦   ¦   ¦   ¦       mc_part_4.mp4
+¦   ¦   ¦   ¦       mc_part_40.mp4
+¦   ¦   ¦   ¦       mc_part_41.mp4
+¦   ¦   ¦   ¦       mc_part_42.mp4
+¦   ¦   ¦   ¦       mc_part_43.mp4
+¦   ¦   ¦   ¦       mc_part_46.mp4
+¦   ¦   ¦   ¦       mc_part_47.mp4
+¦   ¦   ¦   ¦       mc_part_49.mp4
+¦   ¦   ¦   ¦       mc_part_5.mp4
+¦   ¦   ¦   ¦       mc_part_6.mp4
+¦   ¦   ¦   ¦       mc_part_9.mp4
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---footage_B
+¦   ¦   ¦           mc_part_17.mp4
+¦   ¦   ¦           mc_part_19.mp4
+¦   ¦   ¦           mc_part_20.mp4
+¦   ¦   ¦           mc_part_29.mp4
+¦   ¦   ¦           mc_part_3.mp4
+¦   ¦   ¦           mc_part_31.mp4
+¦   ¦   ¦           mc_part_35.mp4
+¦   ¦   ¦           mc_part_36.mp4
+¦   ¦   ¦           mc_part_38.mp4
+¦   ¦   ¦           mc_part_39.mp4
+¦   ¦   ¦           mc_part_44.mp4
+¦   ¦   ¦           mc_part_45.mp4
+¦   ¦   ¦           mc_part_48.mp4
+¦   ¦   ¦           mc_part_50.mp4
+¦   ¦   ¦           mc_part_7.mp4
+¦   ¦   ¦           
+¦   ¦   +---blender
+¦   ¦   ¦   ¦   Mascot_staging.blend
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---assets
+¦   ¦   ¦       +---materials
+¦   ¦   ¦       ¦   +---brown_hair_dd67fb4c-3645-44de-86c1-53b4f15b12ca
+¦   ¦   ¦       ¦   ¦       brown_hair_cd784ffd-f23a-4cf2-95eb-1ac24bb81d83.blend
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---cloth_fabric_8597efd3-a1f7-4268-bd41-90991e23f844
+¦   ¦   ¦       ¦   ¦       cloth_fabric_fcefefc1-a859-4f82-a8be-7351adbaadee.blend
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---cream_cloth_6dc0093c-f1ca-449c-a19c-dcc00b09b128
+¦   ¦   ¦       ¦   ¦       cream_cloth_2K_99b2902e-db89-4118-860b-c064ae817204.blend
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---fur_01_a4bcb169-ab1d-48dd-b979-1b40b20e7735
+¦   ¦   ¦       ¦   ¦       fur_01_2K_93327660-974c-4c3c-9124-b339245254b5.blend
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---velvet_be4db903-8a3f-4f0a-9989-3630494dc1e4
+¦   ¦   ¦       ¦   ¦       velvet_2K_a73de57c-a43e-47c0-865b-26fa2b58ec01.blend
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---velvet_whisper_4b2175dc-6c1f-40fc-b800-f70b1d16ae8e
+¦   ¦   ¦       ¦           velvet_whisper_c764557e-dbad-47e0-bf07-7448ca58ab5a.blend
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---models
+¦   ¦   ¦           +---box_404196c7-511b-4463-b1b0-2a225c39f55f
+¦   ¦   ¦                   box_2K_859061ba-01a9-4f21-9da2-d91b7739f727.blend
+¦   ¦   ¦                   
+¦   ¦   +---Fonts
+¦   ¦   ¦       Arial.ttf
+¦   ¦   ¦       Frutiger.ttf
+¦   ¦   ¦       
+¦   ¦   +---historic_stories
+¦   ¦   ¦       centre.json
+¦   ¦   ¦       historic_data.txt
+¦   ¦   ¦       IND.json
+¦   ¦   ¦       
+¦   ¦   +---MascotNvidia
+¦   ¦   ¦   ¦   cache_centre_cache.usd
+¦   ¦   ¦   ¦   left_mascot.usd
+¦   ¦   ¦   ¦   right_mascot.usd
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---.thumbs
+¦   ¦   ¦       +---256x256
+¦   ¦   ¦               left_mascot.usd.png
+¦   ¦   ¦               right_mascot.usd.png
+¦   ¦   ¦               test.usd.png
+¦   ¦   ¦               
+¦   ¦   +---mascot_video
+¦   ¦   ¦       final_mascot.webm
+¦   ¦   ¦       
+¦   ¦   +---news_info_to_render
+¦   ¦   ¦       centre.json
+¦   ¦   ¦       centre_custom.json
+¦   ¦   ¦       
+¦   ¦   +---related_images
+¦   ¦   ¦       1.jpg
+¦   ¦   ¦       
+¦   ¦   +---static_audio
+¦   ¦   ¦       news_sound.mp3
+¦   ¦   ¦       
+¦   ¦   +---TTS
+¦   ¦   ¦       TTS_output.mp3
+¦   ¦   ¦       TTS_output.wav
+¦   ¦   ¦       
+¦   ¦   +---__pycache__
+¦   ¦           Main_centre.cpython-311.pyc
+¦   ¦           
+¦   +---left
+¦   ¦   ¦   blurred_image.jpg
+¦   ¦   ¦   Main_left.py
+¦   ¦   ¦   
+¦   ¦   +---attention_footage
+¦   ¦   ¦   +---footage_A
+¦   ¦   ¦   ¦       mc_part_10.mp4
+¦   ¦   ¦   ¦       mc_part_12.mp4
+¦   ¦   ¦   ¦       mc_part_14.mp4
+¦   ¦   ¦   ¦       mc_part_16.mp4
+¦   ¦   ¦   ¦       mc_part_19.mp4
+¦   ¦   ¦   ¦       mc_part_2.mp4
+¦   ¦   ¦   ¦       mc_part_20.mp4
+¦   ¦   ¦   ¦       mc_part_3.mp4
+¦   ¦   ¦   ¦       mc_part_5.mp4
+¦   ¦   ¦   ¦       mc_part_52.mp4
+¦   ¦   ¦   ¦       mc_part_55.mp4
+¦   ¦   ¦   ¦       mc_part_59.mp4
+¦   ¦   ¦   ¦       mc_part_60.mp4
+¦   ¦   ¦   ¦       mc_part_61.mp4
+¦   ¦   ¦   ¦       mc_part_62.mp4
+¦   ¦   ¦   ¦       mc_part_63.mp4
+¦   ¦   ¦   ¦       mc_part_64.mp4
+¦   ¦   ¦   ¦       mc_part_67.mp4
+¦   ¦   ¦   ¦       mc_part_69.mp4
+¦   ¦   ¦   ¦       mc_part_7.mp4
+¦   ¦   ¦   ¦       mc_part_70.mp4
+¦   ¦   ¦   ¦       mc_part_71.mp4
+¦   ¦   ¦   ¦       mc_part_73.mp4
+¦   ¦   ¦   ¦       mc_part_74.mp4
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---footage_B
+¦   ¦   ¦           mc_part_11.mp4
+¦   ¦   ¦           mc_part_15.mp4
+¦   ¦   ¦           mc_part_17.mp4
+¦   ¦   ¦           mc_part_18.mp4
+¦   ¦   ¦           mc_part_4.mp4
+¦   ¦   ¦           mc_part_51.mp4
+¦   ¦   ¦           mc_part_53.mp4
+¦   ¦   ¦           mc_part_54.mp4
+¦   ¦   ¦           mc_part_56.mp4
+¦   ¦   ¦           mc_part_57.mp4
+¦   ¦   ¦           mc_part_58.mp4
+¦   ¦   ¦           mc_part_6.mp4
+¦   ¦   ¦           mc_part_65.mp4
+¦   ¦   ¦           mc_part_66.mp4
+¦   ¦   ¦           mc_part_68.mp4
+¦   ¦   ¦           mc_part_72.mp4
+¦   ¦   ¦           mc_part_75.mp4
+¦   ¦   ¦           mc_part_9.mp4
+¦   ¦   ¦           
+¦   ¦   +---blender
+¦   ¦   ¦   ¦   Mascot_staging.blend
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---assets
+¦   ¦   ¦       +---materials
+¦   ¦   ¦           +---cloth_fabric_8597efd3-a1f7-4268-bd41-90991e23f844
+¦   ¦   ¦           ¦       cloth_fabric_fcefefc1-a859-4f82-a8be-7351adbaadee.blend
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---cream_cloth_6dc0093c-f1ca-449c-a19c-dcc00b09b128
+¦   ¦   ¦           ¦       cream_cloth_2K_99b2902e-db89-4118-860b-c064ae817204.blend
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---fur_01_a4bcb169-ab1d-48dd-b979-1b40b20e7735
+¦   ¦   ¦           ¦       fur_01_2K_93327660-974c-4c3c-9124-b339245254b5.blend
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---velvet_be4db903-8a3f-4f0a-9989-3630494dc1e4
+¦   ¦   ¦                   velvet_2K_a73de57c-a43e-47c0-865b-26fa2b58ec01.blend
+¦   ¦   ¦                   
+¦   ¦   +---Fonts
+¦   ¦   ¦       Arial.ttf
+¦   ¦   ¦       Frutiger.ttf
+¦   ¦   ¦       
+¦   ¦   +---historic_stories
+¦   ¦   ¦       BBC.json
+¦   ¦   ¦       left.json
+¦   ¦   ¦       
+¦   ¦   +---MascotNvidia
+¦   ¦   ¦   ¦   cache_left_cache.usd
+¦   ¦   ¦   ¦   left_mascot.usd
+¦   ¦   ¦   ¦   right_mascot.usd
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---.thumbs
+¦   ¦   ¦       +---256x256
+¦   ¦   ¦               left_mascot.usd.png
+¦   ¦   ¦               right_mascot.usd.png
+¦   ¦   ¦               test.usd.png
+¦   ¦   ¦               
+¦   ¦   +---mascot_video
+¦   ¦   ¦       final_mascot.webm
+¦   ¦   ¦       
+¦   ¦   +---news_info_to_render
+¦   ¦   ¦       left.json
+¦   ¦   ¦       left_custom.json
+¦   ¦   ¦       
+¦   ¦   +---politics
+¦   ¦   ¦   +---left
+¦   ¦   ¦       +---news_info_to_render
+¦   ¦   ¦       ¦       left_custom.json
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---TTS
+¦   ¦   ¦               TTS_output.mp3
+¦   ¦   ¦               TTS_output.wav
+¦   ¦   ¦               
+¦   ¦   +---related_images
+¦   ¦   ¦       1.jpg
+¦   ¦   ¦       
+¦   ¦   +---static_audio
+¦   ¦   ¦       news_sound.mp3
+¦   ¦   ¦       
+¦   ¦   +---TTS
+¦   ¦   ¦       TTS_output.mp3
+¦   ¦   ¦       TTS_output.wav
+¦   ¦   ¦       
+¦   ¦   +---__pycache__
+¦   ¦           Main_left.cpython-311.pyc
+¦   ¦           
+¦   +---right
+¦       ¦   blurred_image.jpg
+¦       ¦   Main_right.py
+¦       ¦   
+¦       +---attention_footage
+¦       ¦   +---footage_A
+¦       ¦   ¦       mc_part_10.mp4
+¦       ¦   ¦       mc_part_100.mp4
+¦       ¦   ¦       mc_part_14.mp4
+¦       ¦   ¦       mc_part_15.mp4
+¦       ¦   ¦       mc_part_18.mp4
+¦       ¦   ¦       mc_part_19.mp4
+¦       ¦   ¦       mc_part_20.mp4
+¦       ¦   ¦       mc_part_3.mp4
+¦       ¦   ¦       mc_part_4.mp4
+¦       ¦   ¦       mc_part_5.mp4
+¦       ¦   ¦       mc_part_7.mp4
+¦       ¦   ¦       mc_part_78.mp4
+¦       ¦   ¦       mc_part_79.mp4
+¦       ¦   ¦       mc_part_80.mp4
+¦       ¦   ¦       mc_part_81.mp4
+¦       ¦   ¦       mc_part_87.mp4
+¦       ¦   ¦       mc_part_88.mp4
+¦       ¦   ¦       mc_part_89.mp4
+¦       ¦   ¦       mc_part_9.mp4
+¦       ¦   ¦       mc_part_90.mp4
+¦       ¦   ¦       mc_part_91.mp4
+¦       ¦   ¦       mc_part_92.mp4
+¦       ¦   ¦       mc_part_94.mp4
+¦       ¦   ¦       mc_part_95.mp4
+¦       ¦   ¦       mc_part_96.mp4
+¦       ¦   ¦       mc_part_97.mp4
+¦       ¦   ¦       mc_part_99.mp4
+¦       ¦   ¦       
+¦       ¦   +---footage_B
+¦       ¦           mc_part_11.mp4
+¦       ¦           mc_part_12.mp4
+¦       ¦           mc_part_16.mp4
+¦       ¦           mc_part_17.mp4
+¦       ¦           mc_part_2.mp4
+¦       ¦           mc_part_6.mp4
+¦       ¦           mc_part_76.mp4
+¦       ¦           mc_part_77.mp4
+¦       ¦           mc_part_82.mp4
+¦       ¦           mc_part_83.mp4
+¦       ¦           mc_part_84.mp4
+¦       ¦           mc_part_85.mp4
+¦       ¦           mc_part_86.mp4
+¦       ¦           mc_part_93.mp4
+¦       ¦           mc_part_98.mp4
+¦       ¦           
+¦       +---blender
+¦       ¦   ¦   Mascot_staging.blend
+¦       ¦   ¦   
+¦       ¦   +---assets
+¦       ¦       +---materials
+¦       ¦       ¦   +---brown_hair_dd67fb4c-3645-44de-86c1-53b4f15b12ca
+¦       ¦       ¦           brown_hair_cd784ffd-f23a-4cf2-95eb-1ac24bb81d83.blend
+¦       ¦       ¦           
+¦       ¦       +---models
+¦       +---Fonts
+¦       ¦       Arial.ttf
+¦       ¦       Frutiger.ttf
+¦       ¦       
+¦       +---historic_stories
+¦       ¦       FOX.json
+¦       ¦       historic_data.txt
+¦       ¦       right.json
+¦       ¦       
+¦       +---MascotNvidia
+¦       ¦   ¦   cache_right_cache.usd
+¦       ¦   ¦   left_mascot.usd
+¦       ¦   ¦   right_mascot.usd
+¦       ¦   ¦   
+¦       ¦   +---.thumbs
+¦       ¦       +---256x256
+¦       ¦               left_mascot.usd.png
+¦       ¦               right_mascot.usd.png
+¦       ¦               test.usd.png
+¦       ¦               
+¦       +---mascot_video
+¦       ¦       final_mascot.webm
+¦       ¦       
+¦       +---news_info_to_render
+¦       ¦       right.json
+¦       ¦       right_custom.json
+¦       ¦       
+¦       +---related_images
+¦       ¦       1.jpg
+¦       ¦       
+¦       +---static_audio
+¦       ¦       news_sound.mp3
+¦       ¦       
+¦       +---TTS
+¦       ¦       TTS_output.mp3
+¦       ¦       TTS_output.wav
+¦       ¦       
+¦       +---__pycache__
+¦               Main_right.cpython-311.pyc
+¦               
++---__pycache__
+        article_scraper.cpython-311.pyc
+        blender_launcher_nvidia.cpython-311.pyc
+        date_getter.cpython-311.pyc
+        footage_getter.cpython-311.pyc
+        hashtag_gen.cpython-311.pyc
+        image_finder.cpython-311.pyc
+        instagram_uploader.cpython-311.pyc
+        LLM_local_server.cpython-311.pyc
+        MascotNvidia.cpython-311.pyc
+        News_finder_and_saver.cpython-311.pyc
+        TTS.cpython-311.pyc
+        video_composer.cpython-311.pyc
+        X_uploader.cpython-311.pyc
+        youtube_uploader.cpython-311.pyc
+        
